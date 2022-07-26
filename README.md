@@ -8,7 +8,7 @@
 
 ### <samp>I am a person that tries to become who has proactive, skeptical, and problem solver thinking capability perpetually, to be able to have the potential to improve the quality of humanity.</samp>
 
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%" align="right" style="border-radius: 0 50% 50% 50%"/>
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" align="right"/>
 
 - #### <samp><img src="https://i.giphy.com/media/VbEuHLBUPQm55MyqJg/giphy.webp" width="25"/>&nbsp;&nbsp; I Love Coding, Astronomy, and Artificial Intelligence.</samp>
 - #### <samp><img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="25"/>&nbsp;&nbsp; Contact: pakcannazmican@gmail.com</samp>
