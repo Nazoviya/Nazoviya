@@ -7,7 +7,6 @@
 </samp>
 
 ### <samp>I am a person that tries to become who has proactive, skeptical, and problem solver thinking capability perpetually, to be able to have the potential to improve the quality of humanity.</samp>
-<br>
 
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%" align="right" style="border-radius: 0 50% 50% 50%"/>
 
